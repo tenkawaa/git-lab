@@ -1,1 +1,1 @@
-строка из master
+строка из master и test
