@@ -7,7 +7,7 @@ def main():
         print("вы ввели не число")
         return
 
-    result = num1 + num2
+    result = num1 - num2
     print("результат:", result)
 
 
